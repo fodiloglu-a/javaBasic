@@ -29,3 +29,9 @@ Description:
 
           Combination formula
           C(n,r) = n! / (r! * (n-r)!)>
+          
+          
+ =>ExponentiationalCalculator        
+ Description: <We write a program that calculates exponential
+         numbers with the values entered by the user in Java.>
+         
