@@ -16,3 +16,16 @@
  =>Exponentiation:       
  Description<We write a program that prints powers of 2 up to the number entered with Java loops.
              We write a program that prints powers of 4 and 5 up to the number entered with Java loops.>
+
+=>FactorialAndCombination
+
+Description:
+<We are writing a program that calculates factorial in Java.
+
+          Homework
+          Different structures in the structure to be created with the elements of a set with N elements are called. It is denoted as C(n,r) with r of N.
+
+          Program that calculates in Java.
+
+          Combination formula
+          C(n,r) = n! / (r! * (n-r)!)>
