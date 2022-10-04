@@ -12,3 +12,7 @@
  Description</*With Java loops, we write a program that accepts input from the user until a negative value
          is entered and collects the odd numbers from the entered values and prints it on the screen.
          */>
+         
+ =>Exponentiation:       
+ Description<We write a program that prints powers of 2 up to the number entered with Java loops.
+             We write a program that prints powers of 4 and 5 up to the number entered with Java loops.>
