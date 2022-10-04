@@ -5,5 +5,10 @@
  
  
  
- EvenNumberAverage:
+=> EvenNumberAverage:
  Descriptions:<Calculates the sum and average of all even values up to the entered value>
+ 
+=> StopNegativeNumber:
+ Description</*With Java loops, we write a program that accepts input from the user until a negative value
+         is entered and collects the odd numbers from the entered values and prints it on the screen.
+         */>
