@@ -38,7 +38,7 @@ public class Employee<e> {
             return (int) (salary * 0.5);
         } else return (int) (salary * 0.15);
     }
-    public String toString(Employee employee){
+    public String toString(employee employee){
 
         double total = this.salary -tax() + bonus() + raiseSalary();
         double tot = this.salary +bonus() - tax();

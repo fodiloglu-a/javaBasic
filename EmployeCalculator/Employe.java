@@ -1,13 +1,13 @@
 package EmployeCalculator;
 
-public class Employee<e> {
+public class Employe<e> {
     String firstname;
     String lastname;
     int salary; //Çalışanın maaş
     int workHours; //haftalık çalışma saati
     int hireYear; // İşe başlangıç yılı
 
-    public Employee(String firstname, String lastname, int salary, int workHours, int hireYear) {
+    public Employe(String firstname, String lastname, int salary, int workHours, int hireYear) {
         this.firstname = firstname;
         this.lastname = lastname;
         this.salary = salary;
@@ -38,15 +38,15 @@ public class Employee<e> {
             return (int) (salary * 0.5);
         } else return (int) (salary * 0.15);
     }
-    public String toString(Employee employee){
+    public String toString(employee employee){
 
-        double total = this.salary -tax() + bonus() + raiseSalary();
-        double tot = this.salary +bonus() - tax();
-        System.out.println("Adı : "+this.firstname);
-        System.out.println("Soyadı : "+this.lastname);
-        System.out.println("Maaşı : "+ this.salary);
-        System.out.println("Çalışma Saati : "+ this.workHours);
-        System.out.println("Başlangıç Yılı : "+this.hireYear);
+        double total = salary -tax() + bonus() + raiseSalary();
+        double tot = salary +bonus() - tax();
+        System.out.println("Adı : "+firstname);
+        System.out.println("Soyadı : "+lastname);
+        System.out.println("Maaşı : "+ salary);
+        System.out.println("Çalışma Saati : "+ workHours);
+        System.out.println("Başlangıç Yılı : "+hireYear);
         System.out.println("Vergi : "+tax());
         System.out.println("Bonus : "+bonus());
         System.out.println("Maaş artışı : "+raiseSalary());

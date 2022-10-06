@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="554d5eb9-7683-4f05-b81b-baf7cb84a359" name="Changes" comment="" />
+    <list default="true" id="554d5eb9-7683-4f05-b81b-baf7cb84a359" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeCalculator/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeCalculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeCalculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_OOP/EmployeCalculator/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeCalculator/Employe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_OOP/EmployeCalculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/project_OOP/EmployeCalculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EmployeCalculator/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmployeCalculator/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EmployeCalculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmployeCalculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project_OOP/EmployeCalculator/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/project_OOP/EmployeCalculator/employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project_OOP/EmployeCalculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project_OOP/EmployeCalculator/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_directory_selection": "C:/Users/WIN 10/Documents/GitHub/javaPatikaDEV/EmployeCalculator",
     "last_opened_file_path": "C:/Users/WIN 10/IdeaProjects"
   }
 }]]></component>

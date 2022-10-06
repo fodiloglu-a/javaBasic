@@ -1,13 +1,13 @@
 package EmployeCalculator;
 
-public class Employee<e> {
+public class employee<e> {
     String firstname;
     String lastname;
     int salary; //Çalışanın maaş
     int workHours; //haftalık çalışma saati
     int hireYear; // İşe başlangıç yılı
 
-    public Employee(String firstname, String lastname, int salary, int workHours, int hireYear) {
+    public employee(String firstname, String lastname, int salary, int workHours, int hireYear) {
         this.firstname = firstname;
         this.lastname = lastname;
         this.salary = salary;
@@ -38,7 +38,7 @@ public class Employee<e> {
             return (int) (salary * 0.5);
         } else return (int) (salary * 0.15);
     }
-    public String toString(Employee employee){
+    public String toString(employee employee){
 
         double total = salary -tax() + bonus() + raiseSalary();
         double tot = salary +bonus() - tax();
