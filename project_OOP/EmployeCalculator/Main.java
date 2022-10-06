@@ -2,7 +2,7 @@ package EmployeCalculator;
 
 public class Main {
     public static void main(String[] args) {
-        Employee employee = new Employee("Gokce","Bilge",15000,55,1999);
+        Employee employee = new Employee("George","Oliver",10000,60,2000);
         employee.toString(employee);
     }
 }
