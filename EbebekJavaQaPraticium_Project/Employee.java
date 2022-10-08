@@ -48,7 +48,16 @@ public class Employee{
     }
 
 
-    public  void EmpPrint(double vergi,double bonus,double outSalary,double totalMaas){
+    public  void toString(){
+        
+        double tax= empOne.tax(this.salary);
+        double bonus= (empOne.bonus(this.workHours))*4;
+        double riseSalaray= empOne.raiseSalary(this.hireYear);
+        double totalSalaray=tax+bonus+riseSalaray+ this.salary;
+
+        
+        
+        
         System.out.println("isim\t:"+this.name);
         System.out.println("Maas\t:"+this.salary);
         System.out.println("Çalışma Saati\t:"+this.workHours);
