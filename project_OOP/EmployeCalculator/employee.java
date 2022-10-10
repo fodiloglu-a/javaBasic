@@ -25,7 +25,7 @@ public class employee<e> {
     public int bonus() {
         if (this.workHours >= 40) {
             int a = (this.workHours - 40) * 30;
-            return a;
+            return a*4;//Haftalık hesplanır ama maaşa aylık eklenir
         }
         return 0;
     }
