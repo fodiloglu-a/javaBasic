@@ -1,13 +1,16 @@
-package EmployeCalculator;
+package EbebekJavaQaPraticium_Project;
 
-public class Employe<e> {
+public class employee {
+
     String firstname;
     String lastname;
     int salary; //Çalışanın maaş
     int workHours; //haftalık çalışma saati
     int hireYear; // İşe başlangıç yılı
 
-    public Employe(String firstname, String lastname, int salary, int workHours, int hireYear) {
+
+
+    public employee(String firstname, String lastname, int salary, int workHours, int hireYear) {
         this.firstname = firstname;
         this.lastname = lastname;
         this.salary = salary;
@@ -25,7 +28,7 @@ public class Employe<e> {
     public int bonus() {
         if (this.workHours >= 40) {
             int a = (this.workHours - 40) * 30;
-            return a;
+            return a*4;//Bonus bir haftalık hesaplanıyor *4 diyerek onu aylık olarakmaaşa ekliyoruz
         }
         return 0;
     }
@@ -56,4 +59,4 @@ public class Employe<e> {
         return null;
     }
 
-}
+    }

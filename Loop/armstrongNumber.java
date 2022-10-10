@@ -2,7 +2,7 @@ package Loop;
 
 import java.util.Scanner;
 
-public class ArmstrongNumber {
+public class armstrongNumber {
     public static int ExpoCalculator(int number,int power){
         int expo=1;
 

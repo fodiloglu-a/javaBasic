@@ -1,8 +1,12 @@
 package EmployeCalculator;
 
-public class Main {
+public class main {
     public static void main(String[] args) {
-        employee employee = new employee("Gokce","Bilge",15000,55,1999);
+
+        employee employee = new employee("George","Oliver",10000,60,2000);
+
+
+
         employee.toString(employee);
     }
 }
