@@ -1,73 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="554d5eb9-7683-4f05-b81b-baf7cb84a359" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayAverage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EbebekJavaQaPraticium_Project/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/EbebekJavaQaPraticium_Project/employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EbebekJavaQaPraticium_Project/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/EbebekJavaQaPraticium_Project/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmployeCalculator/Employe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmployeCalculator/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmployeCompSalaryCalculator/Employe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmployeCompSalaryCalculator/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmployeCompSalaryCalculator/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop/ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Loop/armstrongNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MaxAndMinInArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RepeatingNumberFind.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_OOP/EmployeCalculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/project_OOP/EmployeCalculator/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/ArrayAverage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/MaxAndMinInArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/MultiArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/RepeatingNumberFind.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayAverage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EbebekJavaQaPraticium_Project/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EbebekJavaQaPraticium_Project/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EmployeCalculator/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EmployeCalculator/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EmployeCompSalaryCalculator/Employe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EmployeCompSalaryCalculator/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EmployeCompSalaryCalculator/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loop/ArmstrongNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loop/EvenNumberAverage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loop/Exponentiation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loop/ExponentiationCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loop/FaktorialAndCombination.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loop/ReadMe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loop/StopNegativeNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MaxAndMinInArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MultiArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RepeatingNumberFind.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/if-else/ex1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/if-else/ex2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/if-else/ex3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/if-else/ex4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/if-else/ex5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/if-else/ex6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/if-else/ex7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/if-else/ex8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/methot/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/methot/fibonacciRescusive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/methot/polindomNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project_OOP/EmployeCalculator/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project_OOP/EmployeCalculator/ReadMe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project_OOP/StudentInfoSystem_PatikaDev/Course.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project_OOP/StudentInfoSystem_PatikaDev/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project_OOP/StudentInfoSystem_PatikaDev/Read Me.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project_OOP/StudentInfoSystem_PatikaDev/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project_OOP/StudentInfoSystem_PatikaDev/Teacher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/start/ex3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/start/ex4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/start/ex5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/start/ex6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/start/ex7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/start/exOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/start/exTwo.java" beforeDir="false" />
+    <list default="true" id="554d5eb9-7683-4f05-b81b-baf7cb84a359" name="Changes" comment="Update employee.java">
+      <change beforePath="$PROJECT_DIR$/EbebekJavaQaPraticium_Project/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/project_OOP/EbebekJavaQaPraticium_Project/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EbebekJavaQaPraticium_Project/employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/project_OOP/EbebekJavaQaPraticium_Project/employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_OOP/EmployeCalculator/ReadMe" beforeDir="false" afterPath="$PROJECT_DIR$/project_OOP/EbebekJavaQaPraticium_Project/ReadMe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Abdulmutalip &lt;109350249+fodiloglu-a@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -110,6 +52,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\WIN 10\Documents\GitHub\javaBasic\project_OOP\EbebekJavaQaPraticium_Project" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="EbebekJavaQaPraticium_Project" />
     </key>
@@ -123,6 +68,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665084824769</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update employee.java">
+      <created>1666089445935</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666089445935</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,5 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Update employee.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update employee.java" />
   </component>
 </project>
